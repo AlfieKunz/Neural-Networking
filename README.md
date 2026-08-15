@@ -96,7 +96,7 @@ To install, simply clone this repository using the following terminal prompts.
 git clone https://github.com/AlfieKunz/Neural-Networking
 cd Neural-Networking
 ```
-Alternatively, you can download the latest version source code (or an old one!) as a zip through the 'Releases' tab. Simply unzip the folder and open the "Neural Networking.sln" file in Visual Studio.
+Then, simply open the "NeuralNetworking.sln" file in Visual Studio.
 
 Feel free to also fork this repository, open an issue, or submit pull requests. All contributions welcome! :)  
 To better navigate this project, please see below for the related folder structure.

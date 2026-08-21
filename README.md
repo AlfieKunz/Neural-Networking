@@ -50,7 +50,7 @@ This work is self-motivated and self-funded, and is written primarily in VB.NET 
 
 ## Project Showcase
 
-> **Project Demo:** You can see this project live directly through the [**project build**](https://drive.google.com/drive/folders/1Q8x6LexTXxOnXtQItj0eWAFmKeyWTeQQ) (Intel 32/64-bit). Simply click the 'Download All' button in the link attached, unzip and run the "NeuralNetworking.exe" application.
+> **Project Demo:** You can see this project live directly through the [**project build**](https://drive.google.com/drive/folders/1bDBBR7leAOsPxUcX095H-rHcpyomioEA) (Intel 32/64-bit). Simply click the 'Download All' button in the link attached, unzip and run the "NeuralNetworking.exe" application.
 
 > **Program Controls:**
 >1) Once the program has loaded, navigate to the desired training environment using the slider in the top-right corner.

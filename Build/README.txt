@@ -1,0 +1,5 @@
+"NeuralNetworking.exe" Program Controls:
+1) Once the program has loaded, navigate to the desired training environment using the slider in the top-right corner.
+2) To train a new model, adjust the network configuration settings, click "Configure Network" (resets all weights & biases), and then "Learn! :D".
+3) To load a previously trained model, navigate to your desired mode {Digits, Doodles}, click "Load Network", and select a valid network: typically {DIGIT V6, DOODLE V2}. You can then interact with the black interface screen with the mouse (left click for drawing, right click for erasing), to see the network in action.
+4) To test a model ('Digit' or 'Doodle' modes), drag on the black window to draw and see the network's real-time predictions! (Left click for drawing, right clicks for erasing.) You can also scrub through the test data via the bottom slider, or click "Output Diagnostics" to see where your model strengths & weaknesses are.

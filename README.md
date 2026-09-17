@@ -10,7 +10,7 @@
 
 A simple Neural Networking program used to identify user-drawn digits, or doodles of various categories. Trains on 50,000 images from the MNIST Digit database, along with 60,000 user submissions to Google 'Quick Draw', using a heavily optimised and robust gradient descent algorithm. To allow the AI to also recognise the user's own drawings in real-time (which may differ wildly from those in the training data), the training data is heavily augmented with random transformations (scaling, translation, added noise).
 
-In only a couple of minutes of training, the program is able to achieve ~98% accuracy on the MNIST Digit database, and ~92% on the Google 'Quick Draw' database (12 categories), whilst remaining versatile to user-drawn images.
+In only a minute of training, the program is able to achieve ~98% accuracy on the MNIST Digit database, and ~92% on the Google 'Quick Draw' database (12 categories), whilst remaining versatile to user-drawn images.
 
 I plan to revisit this project soon to construct a 'convolutional' approach, for more nuanced image recognition & classification. I also intend to implement this Network into a future version of my [**Chess AI**](https://github.com/AlfieKunz/Chess-Game-AI), to make a sophisticated hand-crafted NNUE Evaluation Function.
 
@@ -50,7 +50,7 @@ This work is self-motivated and self-funded, and is written primarily in VB.NET 
 
 ## Project Showcase
 
-> **Project Demo:** You can see this project live directly through the [**project build**](https://drive.google.com/drive/folders/1bDBBR7leAOsPxUcX095H-rHcpyomioEA) (Intel 32/64-bit). Simply click the 'Download All' button in the link attached, unzip and run the "NeuralNetworking.exe" application.
+> **Project Demo:** You can see this project live directly through the [**project build**](https://drive.google.com/drive/folders/1bDBBR7leAOsPxUcX095H-rHcpyomioEA) (32/64-bit). Simply click the 'Download All' button in the link attached, unzip and run the "NeuralNetworking.exe" application.
 
 > **Program Controls:**
 >1) Once the program has loaded, navigate to the desired training environment using the slider in the top-right corner.
@@ -89,7 +89,7 @@ As the MNIST and Quick Draw databases are stored in very controlled environments
 
 ## Installation and Folder Structure
 
-### Required Software: Visual Studio (.NET 8.0).
+### Required Software: Visual Studio (.NET 8.0, x64/x86).
 
 To install, simply clone this repository using the following terminal prompts.
 ```bash
